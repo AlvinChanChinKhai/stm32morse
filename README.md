@@ -17,7 +17,6 @@ Morse code is either of two systems that uses a combination of dots, dashes, and
 ![image](https://user-images.githubusercontent.com/118992897/203992166-dad9ab2a-4fe7-45da-8420-991e5232abfd.png)
                                                                 
 
-<br>
 Project Execution
 - 
 The steps to complete this project is same as the [stm32blinky](https://github.com/AlvinChanChinKhai/stm32blinky/blob/main/README.md) project except that the code in the while loop is changed to the following:
@@ -25,13 +24,11 @@ The steps to complete this project is same as the [stm32blinky](https://github.c
 
 
 
-<br>
 Project Demonstration: 
 - 
   - Youtube link: https://www.youtube.com/watch?v=Hf4iGNohw8o&ab_channel=BehJunlong
 
 
-<br>
 References
 - 
   [1] The definition of Morse code: https://en.wikipedia.org/wiki/Morse_code
