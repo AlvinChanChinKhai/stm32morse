@@ -10,6 +10,7 @@ Group Members: Alvin Chan Chin Khai, Beh Jun Long
 
 
 
+
 Morse Code
 -
 Morse code is either of two systems that uses a combination of dots, dashes, and spaces to represent alphabetic characters, numbers, and punctuation. The codes are communicated by the use of electrical pulses with various lengths or comparable mechanical or visual signals, like flashing lights. For the morse code, a dash is three units long, while a dot is one unit long. One unit separates each part of a single letter. There are three units between each letter. There are seven units between each word. The dots, dashes, and spaces that represent each alphabetic characters is shown in the figure below.
