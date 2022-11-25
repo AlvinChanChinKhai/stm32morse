@@ -2,7 +2,7 @@
 
 Project Description
 -
-In this project, Nucleo-64 STM32F411RE/STM32F446RE development board is programmed to blink on board LED to transmit the 2 different letters in morse code representing 2 group members repeatedly. The letters "A" and "B" will be used which represent the group members Alvin Chan Chin Khai and Beh Jun Long respectively.
+In this project, Nucleo-64 STM32F411RE/STM32F446RE development board is programmed to blink the on board LED to transmit the 2 different letters in morse code representing 2 group members repeatedly. The letters "A" and "B" will be used which represent the group members Alvin Chan Chin Khai and Beh Jun Long respectively.
 
 Group Name: Savvy Falcon
 
