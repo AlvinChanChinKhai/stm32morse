@@ -20,7 +20,8 @@ Morse code is either of two systems that uses a combination of dots, dashes, and
 
 
 Project Execution
-- The steps to complete this project is same as the [stm32blinky](https://github.com/AlvinChanChinKhai/stm32blinky/blob/main/README.md) project except that the code in the while loop is changed to the following:
+- 
+The steps to complete this project is same as the [stm32blinky](https://github.com/AlvinChanChinKhai/stm32blinky/blob/main/README.md) project except that the code in the while loop is changed to the following:
 	![image](https://user-images.githubusercontent.com/118992897/203995092-76cc8570-b5e2-49e8-8fe6-97bb2b47ddc0.png)
 
 
